@@ -179,3 +179,7 @@ body{background-color:var(--paper);background-image:radial-gradient(rgba(47,158,
 /* search magnifier (drawn, not an emoji) */
 .search-ico{width:20px;height:20px;flex:none;fill:none;stroke:var(--teal);stroke-width:2.5;stroke-linecap:round}
 .game.coming .game-body{padding-top:28px}
+
+/* footer disclaimer */
+.disclaimer{max-width:760px;margin:18px auto 0;font-size:13px;line-height:1.55;opacity:.85}
+.footer .disclaimer p{margin:6px 0;font-weight:500}
