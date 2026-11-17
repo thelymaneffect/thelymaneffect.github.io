@@ -11,7 +11,7 @@ window.GAMES = [
     alsoTeaches: ['Social Studies', 'Math', 'Science', 'Language Arts'],
     url: 'https://thelymaneffect.github.io/world-domination/',
     image: 'images/globe-quest.jpg',
-    description: 'Explore all 199 countries or all 50 U.S. states. Answer questions about capitals, landmarks, nature and flags to grow your chances on a fraction wheel, then spin to add places to your map.',
+    description: 'Explore all 199 countries or all 50 U.S. states. Answer questions about capitals, landmarks, nature, and flags to grow your chances on a fraction wheel, then spin to add places to your map.',
     facts: ['<b>Adjustable:</b> pick question topics and No-loss or Real-stakes mode', '<b>Offline:</b> install it and play in airplane mode'],
     keywords: ['geography', 'map', 'maps', 'world', 'globe', 'countries', 'states', 'USA', 'United States', 'capitals', 'continents',
       'hemispheres', 'compass', 'directions', 'north south east west', 'flags', 'landmarks', 'famous places', 'oceans', 'rivers', 'mountains',

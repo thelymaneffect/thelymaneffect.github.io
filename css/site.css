@@ -175,3 +175,7 @@ body{background-color:var(--paper);background-image:radial-gradient(rgba(47,158,
 @media (prefers-reduced-motion:reduce){.game,.pillar{transition:none}}
 .fun-word{white-space:nowrap}
 @media (max-width:600px){.doodle.d1{display:none}.d2{top:8px;right:4%}}
+
+/* search magnifier (drawn, not an emoji) */
+.search-ico{width:20px;height:20px;flex:none;fill:none;stroke:var(--teal);stroke-width:2.5;stroke-linecap:round}
+.game.coming .game-body{padding-top:28px}
