@@ -9,7 +9,7 @@ window.GAMES = [
     subtitle: 'Geography Game',
     subject: 'Geography',
     alsoTeaches: ['Social Studies', 'Math', 'Science', 'Language Arts'],
-    url: 'https://thelymaneffect.github.io/world-domination/',
+    url: 'https://thelymaneffect.github.io/globe-quest/',
     image: 'images/globe-quest.jpg',
     description: 'Explore all 199 countries or all 50 U.S. states. Answer questions about capitals, landmarks, nature, and flags to grow your chances on a fraction wheel, then spin to add places to your map. Or just explore: compare different types of maps, see the hemispheres and U.S. regions right on the map, and zoom in to find famous places and all 63 U.S. national parks with photos.',
     facts: ['<b>Adjustable:</b> pick question topics and No-loss or Real-stakes mode', '<b>Explore:</b> types of maps, hemispheres, U.S. regions, famous places, and national parks', '<b>Offline:</b> install it and play in airplane mode'],
